@@ -1,4 +1,10 @@
-### Hi there 👋
+### oooh a profile readme 😁
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg)](https://forthebadge.com)
+
+[![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
 
 <!--
 **mrcorpz/mrcorpz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
