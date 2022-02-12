@@ -2,6 +2,8 @@
 
 I'm Learning java and javascript and im bad at both of those
 
+[My Website](https://mrcorpz.netlify.app/)
+
 [![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg)](https://forthebadge.com)
