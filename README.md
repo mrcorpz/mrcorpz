@@ -1,16 +1,20 @@
-### oooh a profile readme 😁,this means im cool right?
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=Mrcorpz&fontSize=60"></P>
 
-I'm Learning java and javascript and im bad at both of those
+<h3 align="center"><i>A 13 y/o Learning Java</i></h3>
 
-[My Website](https://mrcorpz.netlify.app/)
+<p align="center">
+<a href="https://discord.com/users/735399862245261322"><code><img src="https://discord.c99.nl/widget/theme-3/735399862245261322.png" height="80px"></code></a>
+</p>
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)
+<p align="center">
+<a href="https://mrcorpz.netlify.app">My Website</a>
+</p>
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg)](https://forthebadge.com)
+<h3 align="center">Stats</h3>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mrcorpz&show_icons=true&theme=synthwave"></p>
 
-[![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
-
-![Mrcorpz's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrcorpz&show_icons=true&theme=merko)
+<h3 align="center">Visitors (since 3/8/2022)</h3>
+<p align="center"><img src="https://count.getloli.com/get/@mrcorpz?theme=rule34"></p>
 
 <!--
 **mrcorpz/mrcorpz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
