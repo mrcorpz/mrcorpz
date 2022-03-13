@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<a href="https://mrcorpz.netlify.app">My Website</a>
+<a href="https://mrcorpz.is-a.dev">My Website</a>
 </p>
 
 <h3 align="center">Stats</h3>
